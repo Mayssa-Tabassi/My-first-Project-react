@@ -1,0 +1,30 @@
+/* ListParfum.css */
+
+.list-parfum-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.parfum-item {
+  width: 100px; /* Adjust the width according to your design */
+  margin: 10px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.parfum-image {
+  max-width: 100%;
+  height: auto;
+  left: 20px;
+  right: 20px;
+}
+
+.delete-button {
+  margin-top: 10px;
+  cursor: pointer;
+  color: green
+}
+
+  

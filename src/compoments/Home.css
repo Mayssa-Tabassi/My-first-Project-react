@@ -1,0 +1,18 @@
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Utilisez 100% pour prendre toute la hauteur de body */
+}
+
+.p {
+  text-align: center;
+  color:green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400%; 
+}

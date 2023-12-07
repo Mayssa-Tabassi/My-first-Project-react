@@ -1,0 +1,18 @@
+/* Menu.css */
+
+/* Réinitialiser les styles de base */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style de la barre de navigation */
+  .navbar {
+    background-color:gainsboro; /* Rose */
+  }
+  
+  /* Style du texte de la barre de navigation */
+  .navbar-brand {
+    color: white; /* Couleur du texte blanc */
+  }
+  
